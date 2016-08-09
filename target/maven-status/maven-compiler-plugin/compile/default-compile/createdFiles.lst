@@ -1,0 +1,8 @@
+com\wechat\tuling\TulingController.class
+com\wechat\util\FormatXmlResult.class
+test\Test.class
+com\wechat\util\WechatController.class
+com\wechat\tuling\HttpGetRequest.class
+com\wechat\util\ParseReceiveXML.class
+com\wechat\servlet\WechatIOServlet.class
+com\wechat\entity\ReceiveXmlEntity.class
